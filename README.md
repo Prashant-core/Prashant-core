@@ -14,11 +14,10 @@ I am a Computer Science student specializing in AI and Machine Learning at Noida
 <br/>
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Prashant-core&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prashant-core&theme=radical&no-frame=false&no-bg=false&margin-w=4&force_refresh=1)
-
-### Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Prashant-core&limit=5&theme=dark&combine_all_yearly_contributions=true&force_refresh=1)
+## Featured Projects
+[![Deepfake Detection](https://github-readme-stats.shion.dev/api/pin/?username=Prashant-core&repo=deepfake-detection&theme=dark)](https://github.com/Prashant-core/deepfake-detection)
+<br/><br/>
+[![Prashant Portfolio](https://github-readme-stats.shion.dev/api/pin/?username=Prashant-core&repo=prashant-portfolio&theme=dark)](https://github.com/Prashant-core/prashant-portfolio)
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=Prashant-core&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Prashant-core)
