@@ -1,27 +1,57 @@
-# 💫 About Me:
-An enthusiastic engineering student passionate about Machine Learning and Artificial Intelligence, with a growing skill set in data science and programming. Known for logical thinking, adaptability, and a strong willingness to learn. Aims to build intelligent solutions that solve meaningful problems while growing as a professional engineer.<br>
+# Prashant Kumar
+**Computer Science (AI & Machine Learning) | Software Engineer**
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prashant-kumar-49775029a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Coreprashant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantsinghania134@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prashant-core&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prashant-core&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-core&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prashant-core&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prashant-core&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-kumar-49775029a)
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/@Coreprashant)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prashantsinghania134@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prashant-core&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning at Noida International University. I focus on building end-to-end applications that solve practical problems, from neural forensic tools to AI-powered career platforms. I adapt quickly to new technologies and am actively seeking opportunities to contribute to dynamic engineering teams.
+
+## Technical Proficiency
+* **Languages:** Python, Java, SQL, JavaScript, C
+* **AI & Machine Learning:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
+* **Web & Backend:** Flask, HTML/CSS, Tailwind CSS
+* **Databases & Tools:** MySQL, MongoDB, Git/GitHub, Vercel, Power BI
+
+## Featured Projects
+
+**Deepfake Detection System**
+* **Tech Stack:** Python, TensorFlow, Keras, MobileNetV2, Streamlit
+* Built a neural forensic tool utilizing a MobileNetV2 architecture, achieving 92.6% accuracy for real-time deepfake image detection. Deployed an interactive web dashboard for forensic metadata visualization.
+
+**Networq AI Career Tool**
+* **Tech Stack:** Python, Flask, MongoDB, Groq API, Vercel
+* Developed a full-stack AI platform designed to automate job searching workflows. Features include personalized cold email drafting and automated resume scoring for ATS compatibility.
+
+## Experience & Education
+
+**Artificial Intelligence Intern** | *YHills & Smart Swift Innovations* (Mar 2025 - May 2025)
+* Gained hands-on industry exposure in the ML domain by developing applied AI projects.
+* Applied data-driven approaches to solve real-world problem statements.
+
+**B.Tech in Computer Science (AI & ML)** | *Noida International University* (2023 - 2027)
+* Current CGPA: 8.00
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant-core&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-core&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Prashant-core&theme=dark&hide_border=false" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Prashant-core&icon=0&color=0" alt="Profile Views" />
+  </a>
+</div>
